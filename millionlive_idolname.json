@@ -1,0 +1,39 @@
+{
+    "idols": [
+        {
+            "id": 0,
+            "idol_id": "karen",
+            "idol_name": "篠宮可憐"
+        },
+        {
+            "id": 1,
+            "idol_id": "emily",
+            "idol_name": "エミリー・スチュアート"
+        },
+        {
+            "id": 2,
+            "idol_id": "shiho",
+            "idol_name": "北沢志保"
+        },
+        {
+            "id": 3,
+            "idol_id": "mizuki",
+            "idol_name": "真壁瑞希"
+        },
+        {
+            "id": 4,
+            "idol_id": "matsuri",
+            "idol_name": "徳川まつり"
+        },
+        {
+            "id": 5,
+            "idol_id": "nao",
+            "idol_name": "横山奈緒"
+        },
+        {
+            "id": 6,
+            "idol_id": "serika",
+            "idol_name": "箱崎星梨花"
+        }
+    ]
+}
